@@ -1,0 +1,22 @@
+[
+  {
+    "exp_group_num": 1,
+    "exp_name": "RNG",
+    "persona_num": null,
+    "game_num": 0,
+    "spin_num": 1,
+    "prompt": null,
+    "valid_spin": true,
+    "reel_one": 1,
+    "reel_two": 6,
+    "reel_three": 9,
+    "consecutive_losses": 1,
+    "consecutive_wins": 0,
+    "credits": 49,
+    "win": false,
+    "text_output": null,
+    "time_ns": 7400,
+    "attempts": 1,
+    "error": null
+  }
+]
